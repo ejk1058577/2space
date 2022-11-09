@@ -1,0 +1,15 @@
+.thread-card, .file-container {
+    width: 200px;
+}
+
+.file-container img {
+    object-fit: cover;
+}
+
+.content-container {
+    max-width: 700px;
+}
+
+.card-image img {
+    object-fit: cover;
+}
